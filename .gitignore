@@ -3,7 +3,7 @@
 .pnpm-store/
 
 # Build outputs
-dist/
+# dist/  # Commented out for GitHub Pages deployment
 build/
 *.dist
 
